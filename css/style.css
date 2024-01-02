@@ -444,7 +444,7 @@ h3 {
 }
 
 .wrapper {
-  background: url(../img/bg.jpg);
+  background: url(../img/bg.webp);
   min-height: 100vh;
   background-repeat: repeat;
 }
